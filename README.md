@@ -1,11 +1,18 @@
-# [Flappy Bird](https://youtu.be/jj5ADM2uywg)
-- Coding Tutorial: https://youtu.be/jj5ADM2uywg
-- Demo: https://imkennyyip.github.io/flappy-bird/
-- Learn how to add music/sounds: https://youtu.be/UQA5jG-yh78
-- Learn how to add animations: https://youtu.be/94Vw8teCElM
+# Flappy Bird Game
 
-In this tutorial, you will learn to create the flappy bird game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
+This Flappy Bird game project I created for, Amber, as a special gift for her birthday. I wanted her to have a fun, interactive game to play, and this project was the perfect way to make that happen!
 
-Throughout the tutorial, you will learn how to create the game loop, add images onto the canvas, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
+## Project Overview
 
-![flappy-bird-sample](https://user-images.githubusercontent.com/78777681/219966636-72584cb3-d471-41c0-872f-62c230dccc47.png)
+This game is built using **HTML5**, **CSS**, and **JavaScript**. The game utilizes the **HTML5 Canvas** to create the interactive gameplay.
+
+### Features:
+
+- Game loop with smooth animation
+- Press space bar to start the game
+- Flappy Bird character that jumps when clicked
+- Randomly generated pipes that move across the screen
+- Collision detection between the bird and pipes
+- Score tracking
+
+I hope you enjoy playing this game as much as I enjoyed building it!
