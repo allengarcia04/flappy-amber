@@ -1,0 +1,36 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #fffacd; /* Light yellow (LemonChiffon) */
+    margin: 0;
+    padding: 0;
+}
+
+#board {
+    background-image: url("./flappybirdbg.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    border: 5px solid #fff; /* Adding a white border for better visibility */
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#birthday-message {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff69b4; /* Soft pink for a birthday vibe */
+    margin-top: 20px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.8); /* Light background for readability */
+    display: inline-block;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+#birthday-message span {
+    font-size: 22px;
+    color: #ff4500; /* Bright orange to highlight Amber's name */
